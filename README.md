@@ -2,8 +2,10 @@
 
 ## Louis Wickremeratne
 
-A sentence about who and what you are. 
-Then a sentence about what you've achieved. 
+My biggest weaknesses is my indecision. When it comes to large judgements about my personal life I often struggle to act quickly, where logic lacks it takes me time to weight out my options. This has partly been the case during my short (albeit just starting) professional career. After university, I was extremely keen on getting started in the professional world and claiming some responsibility. I was very fortunate to work as part of two commerical teams at great organisations (W Series and the Aleto Foundation). We had great commercial success, generating high quality leads, cultivating healthy sales pipelines and helping these companies grow by increasing their operating incomes.
+
+However, at both these opportunities I felt the work was lacking something. I realised I had rushed into these jobs and not fully understood the type of work I loved. It was looking back at what I loved at school, this was problem solving. 
+
 And then a sentence about what excites you about tech.
 
 ## Projects
@@ -16,15 +18,22 @@ And then a sentence about what excites you about tech.
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Aleto Foundation** (2020 to 2021)  
+_Business Development Lead_
 
-- Any experience relevent to software development
+- Generating and cultivating new business partners, setting up initial virtual meetings to introduce the charity, and explain innovative partnerships.
+- Created a database containing over 500 potential contacts.
+- Responsible for generating a constant influx of high-quality leads.
+- Our team's sales pipeline held a value of £100,000+ after just a few months of coming on board. 
+- Successfully onboarded new sustainable partnerships for the Aleto Foundation.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**W Series** (2019 to 2020)  
+_Sponsorship Analyst_
 
-- Any experience relevent to software development
+- In-depth research in a company’s history of partnership and sponsorship activities.
+- Providing partnership director with insightful reports and accurate research in order to tailor proposals and approaches to specific companies.
+- Arranging meetings with organizations to gain sponsorship agreements for the W series.  
+- Responsible for the management of the commercial team's salesforce account and reports while also coordinating with two external agencies.
 
 ## Skills
 
