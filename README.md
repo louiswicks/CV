@@ -10,8 +10,12 @@ And then a sentence about what excites you about tech.
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Don8**                     | A mobile application called Don8, attempting to centralize charities search for volunteer help during the pandemic and for life afterwards. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Don8**                     | A mobile application called Don8, attempting to centralize charities search for volunteer help during the pandemic and for life afterwards. | Tech stack: MongoDB, Express.js, react-native, and node.js
+Testing framework: Jest, Cypress, and Postman (API)
+Language: Javascript  . |
+| **Spacebook** | A web application called Spacebook, that allows users to sign up, post, and like messages with other interesting features. | Tech stack: Rails
+Testing framework: Rspec and Capybara 
+Language: Ruby, HTML, CSS             |
 
 ## Experience
 
