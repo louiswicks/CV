@@ -1,6 +1,6 @@
+| [Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Interests](#interests) | [Links](#links) |
+
 ## Louis Wickremeratne
-
-
 
 A sentence about who and what you are. 
 Then a sentence about what you've achieved. 
@@ -11,7 +11,8 @@ And then a sentence about what excites you about tech.
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Don8**                     | A mobile application called Don8, attempting to centralize charities search for volunteer help during the pandemic and for life afterwards. | Tech stack: MongoDB, Express.js, react-native, and node.js. Testing framework: Jest, Cypress, and Postman (API). Language: Javascript. |
-| **Spacebook** | A web application called Spacebook, that allows users to sign up, post, and like messages with other interesting features. | Tech stack: Rails. Testing framework: Rspec and Capybara. Language: Ruby, HTML, CSS. |
+| **Spacebook** | A web application called Spacebook, that allows users to sign up, post, and like messages with other interesting features. | Tech stack: Rails and Postgres. Testing framework: Rspec and Capybara. Language: Ruby, HTML, CSS. |
+| **Bunker**    | A web application called bunker, that allows guests and hosts to sign up, post properties, and request to stay in host properties. | Database: Postgres. Testing framework: Rspec and Capybara. Language: Ruby, HTML, CSS |
 
 ## Experience
 
@@ -46,23 +47,28 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (10% acceptance rate)(December 2020 to March 2021)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
+- HTML, CSS, Bootstrap
 
-#### Your University / College (start_date to end_date)
+#### University of Bristol (2016 to 2019)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Bachelor of Sciences degree
+- 2:1 in Geographical Sciences
 
-#### Any other qualifications
+#### St Benedict's High School
 
-That in some arguable way make you a better software developer or well-rounded person
+- A-levels in Chemistry, Maths and Geography (AAA*) 
+- Winner of the St Benedict’s Ranger cup for Geography 2016
 
-## Hobbies
+## Interests
 
 Any cool stuff that makes you a super part of a software development team
+
+## Links
+
+
