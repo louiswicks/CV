@@ -63,6 +63,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 - HTML, CSS, Bootstrap
+- MongoDB, Express, React-native, Node
 
 #### University of Bristol (2016 to 2019)
 
@@ -76,8 +77,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Interests
 
-Any cool stuff that makes you a super part of a software development team
+- The continued search for my top 25 favorite films 
+- Addicted to competitive team sports of any kind 
+- Daily body weight/free weight exercise 
+- And unfortunately I'm a life long Tottenham supporter
 
 ## Links
 
-
+[Linkedin]()
+[CodeWars]()
+[Github]()
