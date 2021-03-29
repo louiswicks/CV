@@ -2,11 +2,11 @@
 
 ## Louis Wickremeratne
 
-My biggest weaknesses is my indecision. When it comes to large judgements about my personal life I often struggle to act quickly, where logic lacks it takes me time to weight out my options. This has partly been the case during my short (albeit just starting) professional career. After university, I was extremely keen on getting started in the professional world and claiming some responsibility. I was very fortunate to work as part of two commerical teams at great organisations (W Series and the Aleto Foundation). We had great commercial success, generating high quality leads, cultivating healthy sales pipelines and helping these companies grow by increasing their operating incomes.
+When it comes to large judgements about my personal life I often struggle to act quickly, where logic lacks it takes me time to weight out my options. This has partly been the case during my short professional career. After university, I was extremely keen on getting started in the professional world and claiming some responsibility. I was very fortunate to work as a business development lead for commerical teams at two great organisations (W Series and the Aleto Foundation). We had great commercial success, generating high quality leads, cultivating healthy sales pipelines and helping these companies grow by increasing their operating incomes.
 
-However, at both these opportunities I felt the work was lacking something. I realised I had rushed into these jobs and not fully understood the type of work I loved. It was looking back at what I loved at school, this was problem solving. 
+However, at both these opportunities I felt the work was lacking something. I realised I had rushed into these jobs and not fully understood the type of work I loved. It was looking back at the subjects I studied at school when I realised this was solving problems. Understanding this is what drove me to work for a place on one of the most sought-after development bootcamps - Makers Academy.
 
-And then a sentence about what excites you about tech.
+What excites me the most about working in tech is that when I'm working on projects, 95% of the time, I feel like I'm part of team building something truly constructive and benefical, which makes the work 100% more rewarding and satisfiying. This is one of the many reasons I'm trying to purse a new career in the tech industry!
 
 ## Projects
 
@@ -39,28 +39,27 @@ _Sponsorship Analyst_
 
 #### Results-orientated 
 
+This comes down to braking down large goals into small manageable pieces and being well organised.
+
+I was able to onboard 8 new partners in 3 months for the Aleto Foundation due to hitting my weekly and daily objectives, this resulted in our team having 100k commited form various organisations.
+
 #### Logical thinking
+
+This follows on from above, the ability to not get lost in what would seem like a large unachieveable objective, but pull it apart into a logical step by step approach.
+
+This skill aligns with solving a problem in code: analyse and understand the issue, research solutions, write the solution, refactor to improve its readability.
 
 #### Perspective 
 
+I was successful in my various sales roles because of my ability to quickly understand the needs of others, I was able understand situations from their perspective and hence find the solution to there problems quickly. 
+
+In project teams at Makers, I found seeing things from another person's view and quickly understanding how one works in a team rapidly fast-tracked our workflow.
+
 #### Strong written communication
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+Understanding the meaning behind a piece of writing is one thing, it is another to express your own thoughts and analysis in a manner which is accessible to others. You need to have an appreciation for the final product over anything else.
 
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+This is a skill I will be able apply when writing code. Having worked in two day sprints, we would often swap working pairs to keep things fresh and the ability to have a team member look at your code and immediately understand it is vital to timescales of projects!
 
 ## Education
 
@@ -87,7 +86,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - The continued search for my top 25 favorite films 
 - Addicted to competitive team sports of any kind 
-- Daily body weight/free weight exercise 
+- Body weight/free weight exercise 
 - And unfortunately I'm a life long Tottenham supporter
 
 ## Links
