@@ -12,9 +12,9 @@ What excites me the most about working in tech is that when I'm working on proje
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Don8**                     | A mobile application called Don8, attempting to centralize charities search for volunteer help during the pandemic and for life afterwards. | Tech stack: MongoDB, Express.js, react-native, and node.js. Testing framework: Jest, Cypress, and Postman (API). Language: Javascript. |
-| **Spacebook** | A web application called Spacebook, that allows users to sign up, post, and like messages with other interesting features. | Tech stack: Rails and Postgres. Testing framework: Rspec and Capybara. Language: Ruby, HTML, CSS. |
-| **Bunker**    | A web application called bunker, that allows guests and hosts to sign up, post properties, and request to stay in host properties. | Database: Postgres. Testing framework: Rspec and Capybara. Language: Ruby, HTML, CSS |
+| **[Don8](https://github.com/louiswicks/don8)**                     | A mobile application called Don8, attempting to centralize charities search for volunteer help during the pandemic and for life afterwards. | Tech stack: MongoDB, Express.js, react-native, and node.js. Testing framework: Jest, Cypress, and Postman (API). Language: Javascript. |
+| **[Spacebook](https://github.com/louiswicks/acebook-sholk)** | A web application called Spacebook, that allows users to sign up, post, and like messages with other interesting features. | Tech stack: Rails and Postgres. Testing framework: Rspec and Capybara. Language: Ruby, HTML, CSS. |
+| **[Bunker](https://github.com/louiswicks/bunker_makersbnb)**    | A web application called bunker, that allows guests and hosts to sign up, post properties, and request to stay in host properties. | Database: Postgres. Testing framework: Rspec and Capybara. Language: Ruby, HTML, CSS |
 
 ## Experience
 
